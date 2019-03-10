@@ -7,7 +7,7 @@ The datasets directory contains files for bert, and the aug_data directory conta
 
 You can run the code in two ways. Our default way is the second.
   - You can load the original bert and run aug_dataset_wo_ft.py directly
-    - python aug_dataset_wo_ft.py.py
+    - python aug_dataset_wo_ft.py
   - Or you can finetune bert on each dataset before run aug_dataset.py, and then load fine-tuned bert in aug_dataset.py
     1. python finetune_dataset.py
     2. python aug_dataset.py
