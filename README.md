@@ -1,4 +1,7 @@
 # cbert_aug
+This repo is deprecate, please refer to https://github.com/IIEKES/cbert_aug/ for detailed trails.
+
+
 This is a implementation of paper "Conditional BERT Contextual Augmentation" https://arxiv.org/pdf/1812.06705.pdf.
 Our original implementation was two-stage, for convenience, we rewrite the code. 
 
